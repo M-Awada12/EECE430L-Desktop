@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ae74dc0-753d-4120-8a79-c2f05ef93f68" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/awada/exchange/layout.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/awada/exchange/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/awada/exchange/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/awada/exchange/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/awada/exchange/Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/awada/exchange/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/awada/exchange/layout.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/awada/exchange/layout.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/awada/exchange/layout.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +16,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -37,6 +37,10 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -48,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677840731211</updated>
-      <workItem from="1677840731895" duration="306000" />
+      <workItem from="1677840731895" duration="1298000" />
     </task>
     <servers />
   </component>
