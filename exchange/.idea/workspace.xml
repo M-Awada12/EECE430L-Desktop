@@ -4,11 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0a4fe32-c682-4c58-823a-8cfd01d8d89a" name="Changes" comment="" />
+    <list default="true" id="0ae74dc0-753d-4120-8a79-c2f05ef93f68" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/awada/exchange/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/awada/exchange/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/awada/exchange/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/awada/exchange/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/awada/exchange/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/awada/exchange/layout.fxml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -17,7 +27,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectId" id="2MV5q5s2fU2CVJs1gr0AZ6w8qhf" />
+  <component name="ProjectId" id="2MV77Q9J2fWEZxCLxYsy4BkFYwl" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -33,13 +43,16 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e0a4fe32-c682-4c58-823a-8cfd01d8d89a" name="Changes" comment="" />
-      <created>1677840099684</created>
+      <changelist id="0ae74dc0-753d-4120-8a79-c2f05ef93f68" name="Changes" comment="" />
+      <created>1677840731211</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1677840099684</updated>
-      <workItem from="1677840101497" duration="3000" />
+      <updated>1677840731211</updated>
+      <workItem from="1677840731895" duration="306000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
