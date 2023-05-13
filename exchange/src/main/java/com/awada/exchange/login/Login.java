@@ -21,6 +21,11 @@ public class Login implements PageCompleter {
     private TextField passwordTextField;
     private OnPageCompleteListener onPageCompleteListener;
 
+    // Default constructor
+    public Login() {
+        // Initialize any necessary variables or dependencies
+    }
+
     public Login(TextField usernameTextField, TextField passwordTextField) {
         this.usernameTextField = usernameTextField;
         this.passwordTextField = passwordTextField;

@@ -54,15 +54,15 @@
 
     <Label text="Enter Amount Here:" GridPane.columnIndex="0"
            GridPane.rowIndex="10" styleClass="value-label" />
-    <TextField fx:id="AmountTextField" GridPane.columnIndex="1"
+    <TextField fx:id="amountTextField" GridPane.columnIndex="1"
                GridPane.rowIndex="10" />
     <RadioButton text="LBP to USD" GridPane.columnIndex="1"
                  GridPane.rowIndex="11">
         <toggleGroup>
-            <ToggleGroup fx:id="CalcTransactionType"/>
+            <ToggleGroup fx:id="calcTransactionType"/>
         </toggleGroup>
     </RadioButton>
-    <RadioButton text="USD to LBP" toggleGroup="$CalcTransactionType"
+    <RadioButton text="USD to LBP" toggleGroup="$calcTransactionType"
                  GridPane.columnIndex="0" GridPane.rowIndex="11"/>
 
     <Button text="Calculate" GridPane.columnIndex="0"
